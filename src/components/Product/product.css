@@ -1,0 +1,12 @@
+.product {
+    border-right: 1px solid #ccc;
+}
+
+.main-btn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid black;
+}
